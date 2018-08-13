@@ -154,10 +154,10 @@ def main():
     #_get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/MH_04_difficult')
     #_get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/MH_05_difficult')
 
-    #_get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/V1_01_easy')
+    #_get_filenames_and_classes('/notebooks/EuRoC_modify/V1_01_easy')
    # _get_filenames_and_classes('/notebooks/EuRoC_modify/V1_02_medium')
 #     _get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/V1_03_difficult')
-     _get_filenames_and_classes('/notebooks/EuRoC_modify/V2_01_easy')
+    _get_filenames_and_classes('/notebooks/EuRoC_modify/V2_01_easy')
 #     _get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/V2_02_medium')
 #     _get_filenames_and_classes('/media/rvl/hddData1/dockerData/euroc/V2_03_difficult')
 
